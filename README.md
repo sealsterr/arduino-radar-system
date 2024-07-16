@@ -1,4 +1,4 @@
-# arduino-radar-system
+# Arduino Radar System
 
 Building a home-made radar system using an Ultrasound sensor and an Arduino UNO.
 
