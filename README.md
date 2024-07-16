@@ -2,6 +2,8 @@
 
 Building a home-made radar system using an Ultrasound sensor and an Arduino UNO.
 
+![showcase](https://github.com/user-attachments/assets/20dbd982-e033-4804-8eea-e090cab68c40)
+
 ## Introduction
 
 With the help of a micro servo motor the sensor moves left and right, while scanning for objects in a specified area. The device can be controlled using a **Toggle switch**, which turns the machine on and off. There are three **LED**'s and a **Buzzer** placed on the breadboard: the first red LED shows the status based on the Toggle switch, the green LED is turned on while the device is active and searching, and the second red LED blinks depending on the distance measured from the sensor to the detected object. Finally, the Buzzer is used as an alarm, that let's us know we found a target.
